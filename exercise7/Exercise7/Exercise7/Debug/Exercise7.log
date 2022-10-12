@@ -1,0 +1,6 @@
+﻿  Rainfall.cpp
+b:\cosc1436 notepad submissions\exercise7\exercise7\exercise7\rainfall.cpp(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+b:\cosc1436 notepad submissions\exercise7\exercise7\exercise7\rainfall.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+b:\cosc1436 notepad submissions\exercise7\exercise7\exercise7\rainfall.cpp(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+b:\cosc1436 notepad submissions\exercise7\exercise7\exercise7\rainfall.cpp(54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Exercise7.vcxproj -> B:\COSC1436 Notepad submissions\exercise7\Exercise7\Debug\Exercise7.exe

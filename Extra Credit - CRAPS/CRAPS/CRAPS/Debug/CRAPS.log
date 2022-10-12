@@ -1,0 +1,3 @@
+﻿  CRAPS.cpp
+b:\cosc1436 notepad submissions\extra credit - craps\craps\craps\craps.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CRAPS.vcxproj -> B:\COSC1436 Notepad submissions\Extra Credit - CRAPS\CRAPS\Debug\CRAPS.exe
