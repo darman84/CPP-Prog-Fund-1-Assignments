@@ -1,0 +1,3 @@
+﻿  exercise.cpp
+c:\users\zachary81\source\repos\assignment6exercise\assignment6exercise\exercise.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  assignment6EXERCISE.vcxproj -> C:\Users\zachary81\source\repos\assignment6EXERCISE\Debug\assignment6EXERCISE.exe
